@@ -15,4 +15,5 @@ Un commit es una instantánea de los cambios realizados en el repositorio en un 
 
 
 * <tooltip term="Vim">**Vim**</tooltip>: Editor de código en consola de comandos.
+* <tooltip term="Branch">**Branch**</tooltip>: Una rama (branch) en Git es una línea de desarrollo independiente. Permite a los desarrolladores trabajar en diferentes características o correcciones de errores de manera aislada. Las ramas se pueden fusionar (merge) para integrar los cambios en la rama principal (main o master). Esto facilita la colaboración y el manejo de múltiples versiones de un proyecto.
 
