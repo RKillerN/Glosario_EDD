@@ -19,4 +19,7 @@ Proceso de combinar los cambios de una rama con otra, incorporando las modificac
 * <tooltip term="Branch">**Branch**</tooltip>:
 Es una rama dentro de un repositorio Git que permite trabajar en múltiples versiones de un proyecto simultáneamente. Cada rama representa una línea de desarrollo independiente, lo que facilita la experimentación y la colaboración sin afectar la rama principal.
 
-* **Vim**: Editor de código en consola de comandos
+* <tooltip term="Vim">**Vim**</tooltip>:
+Editor de código en consola de comandos.
+
+* <tooltip term="Branch">**Branch**</tooltip>: Una rama (branch) en Git es una línea de desarrollo independiente. Permite a los desarrolladores trabajar en diferentes características o correcciones de errores de manera aislada. Las ramas se pueden fusionar (merge) para integrar los cambios en la rama principal (main o master). Esto facilita la colaboración y el manejo de múltiples versiones de un proyecto
