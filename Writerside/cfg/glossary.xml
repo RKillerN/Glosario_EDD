@@ -25,4 +25,10 @@ Editor de código en consola de comandos.
   <term name="Branch">
 Una rama (branch) en Git es una línea de desarrollo independiente. Permite a los desarrolladores trabajar en diferentes características o correcciones de errores de manera aislada. Las ramas se pueden fusionar (merge) para integrar los cambios en la rama principal (main o master). Esto facilita la colaboración y el manejo de múltiples versiones de un proyecto.
   </term>
+   <term name="Sistemas de archivos">
+Un sistema de archivos es una estructura de datos que un sistema operativo utiliza para gestionar y organizar los datos en un dispositivo de almacenamiento, como un disco duro, una unidad de estado sólido (SSD) o una unidad USB. Los sistemas de archivos permiten almacenar, recuperar y actualizar archivos de manera eficiente y segura.
+  </term>
+  <term name="Gestión de procesos">
+:La gestión de procesos es una función de los sistemas operativos que se encarga de la creación, planificación, ejecución y terminación de los procesos.
+  </term>
 </terms>
