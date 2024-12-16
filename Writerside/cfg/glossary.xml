@@ -19,10 +19,4 @@
     <term name="Commit">
       Un commit es una instantánea de los cambios realizados en el repositorio en un momento dado. Cada commit tiene un mensaje asociado que describe los cambios realizados. Los commits son la unidad básica del historial de un proyecto en Git. Permiten rastrear el progreso del desarrollo, identificar quién hizo qué cambios y cuándo, y revertir a versiones anteriores si es necesario.
     </term>
-    <term name="Vim">
-      Editor de código en consola de comandos.
-    </term>
-        <term name="Branch">
-      Una rama (branch) en Git es una línea de desarrollo independiente. Permite a los desarrolladores trabajar en diferentes características o correcciones de errores de manera aislada. Las ramas se pueden fusionar (merge) para integrar los cambios en la rama principal (main o master). Esto facilita la colaboración y el manejo de múltiples versiones de un proyecto.
-    </term>
 </terms>
